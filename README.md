@@ -47,11 +47,11 @@ Para o título privado, os resultados foram de manter sua participação máxima
 ### 4. Conclusões
 
 As otimizações obtidas para cada cenário foram coerentes com as melhores oportunidades de investimento em cada um dos cenários estimados. 
-Com a rotina de trabalho estruturada possibilita revisões esporádicas. Com a devida atualização dos dados e das expectativas das projeções, gerando um produto final interessante para análise e tomada de decisão. 
-Outros impactos que hoje ainda estão incertos, como a política de aumento de taxa de juros dos Banco Central dos Estados Unidos, podem alterar drasticamentes as expectativas. Necessitando acompanhamento e revisões das previsões e dos resultados.
+Com a rotina de trabalho estruturada possibilita revisões esporádicas. Com a devida atualização dos dados e das expectativas das projeções, gerando um produto final interessante para análise e tomada de decisão.
+Outros impactos que hoje ainda estão incertos, como a política de aumento de taxa de juros dos Banco Central dos Estados Unidos, podem alterar drasticamentes as expectativas. Necessitando acompanhamento e revisões das previsões e dos resultados.**
 ---
 
-Matrícula: 192.110.229,
+Matrícula: 192.110.229
 
 Pontifícia Universidade Católica do Rio de Janeiro
 
