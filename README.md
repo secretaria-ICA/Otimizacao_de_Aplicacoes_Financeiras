@@ -1,7 +1,7 @@
 # Otimização de aplicações financeiras
 
 #### Aluno: [Flavia Szczerbacki](https://https://github.com/BIFla/tcc_bimaster)
-#### Orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
+#### Orientador: [Felipe Borges](https://github.com/FelipeBorgesC)
 
 
 
