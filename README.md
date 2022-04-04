@@ -1,9 +1,9 @@
 # Otimização de aplicações financeiras
 
-#### Aluno: [Flavia Szczerbacki](https://https://github.com/BIFla/tcc_bimaster)
+#### Aluno: [Flavia Szczerbacki](https://github.com/BIFla)
 #### Orientador: [Felipe Borges](https://github.com/FelipeBorgesC)
 
-
+---
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
@@ -50,6 +50,7 @@ As otimizações obtidas para cada cenário foram coerentes com as melhores opor
 Com a rotina de trabalho estruturad
 a possibilita revisões esporádicas. Com a devida atualização dos dados e das expectativas das projeções, gerando um produto final interessante para análise e tomada de decisão.Outros impactos que hoje ainda estão incertos, como a política de aumento de taxa de juros dos Banco Central dos Estados Unidos, podem alterar drasticamentes as expectativas. Necessitando acompanhamento e revisões das previsões e dos resultados.
 
+---
 
 Matrícula: 192.110.229
 
