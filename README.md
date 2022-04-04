@@ -1,4 +1,4 @@
-# Otimização de aplicações financeiras
+# Otimização_de_Aplicações_Financeiras
 
 #### Aluno: [Flavia Szczerbacki](https://github.com/BIFla)
 #### Orientador: [Felipe Borges](https://github.com/FelipeBorgesC)
